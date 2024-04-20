@@ -1,4 +1,4 @@
 
-RL_assignment_3 - ioql question options - Learning the option simul.ipynb - contains the source code for implementation of Intra Option Q Learning where the alternative options are learnt simultanously
-RL_assignment_3 - smdp_question options.ipynb - Contains the source code for implementation of SMDP Q learning for both cases: Learning the alternative options and the case where the options are deterministic and known already
-plot - learning- smdp vs ioql-question options.ipynb - Contains the source code for plots for comparison of SMDP vs IOQL
+"RL_assignment_3 - ioql question options - Learning the option simul.ipynb" - contains the source code for implementation of Intra Option Q Learning where the alternative options are learnt simultanously
+"RL_assignment_3 - smdp_question options.ipynb" - Contains the source code for implementation of SMDP Q learning for both cases: Learning the alternative options and the case where the options are deterministic and known already
+"plot - learning- smdp vs ioql-question options.ipynb" - Contains the source code for plots for comparison of SMDP vs IOQL
